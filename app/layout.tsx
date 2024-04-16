@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "teyfikyilmaz.com",
+    template: "%s | teyfikyilmaz.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Harnessing the power of coding to deliver tailored and unique solutions.",
   openGraph: {
-    title: "chronark.com",
+    title: "teyfikyilmaz.com",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Harnessing the power of coding to deliver tailored and unique solutions.",
+    url: "https://www.teyfikyilmaz.com",
+    siteName: "teyfikyilmaz.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://chronark.com/teyfikyilmazLink.jpeg",
         width: 1920,
         height: 1080,
       },
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "/icon.png",
   },
 };
 const inter = Inter({
