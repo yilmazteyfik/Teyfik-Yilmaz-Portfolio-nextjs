@@ -39,7 +39,7 @@ export default function Home() {
         Harnessing the power of coding to deliver tailored and unique solutions.
         </h2>
         <a
-                    href="/pdf/TeyfikYilmazCV0324pdf.pdf"
+                    href="/pdf/TeyfikYilmazCV0424.pdf" 
                     download="TeyfikYilmaz.pdf"
                     className="text-zinc-500 hover:text-zinc-300 focus:outline-none inline-flex items-center mt-2"
                 >
