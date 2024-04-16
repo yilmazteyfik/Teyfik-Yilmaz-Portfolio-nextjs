@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "teyfikyilmaz.com",
     card: "summary_large_image",
   },
   icons: {
