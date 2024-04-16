@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "teyfikyilmaz.com",
     images: [
       {
-        url: "https://chronark.com/teyfikyilmazLink.jpeg",
+        url: "https://teyfikyilmaz.com/teyfikyilmazLink.jpeg",
         width: 1920,
         height: 1080,
       },
